@@ -1,1 +1,4 @@
+#This file is used to setup a Windows 11 device without connecting to a network or logging in via microsoft. It is an easy way to avoid adding an account, signing in. or requiring internet connection to the setup process. It is equipped with a step by step guide followed along with images attatched for reference points
+
+7/11/2024 - Leo Platti
 
