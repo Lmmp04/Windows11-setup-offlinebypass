@@ -1,1 +1,16 @@
+Written on 7.11.2024 by Leo Platti for offline and local microsoft user account setups on Windows 11 devices
 
+Startup instructions
+# Step 1: Firstly, you'll want to factory reset your computer if its not yet in this state
+# Step 2: Follow through with the setup until prompted for an internet connection
+# Note: do NOT connect to a network for an easier experience
+
+Command line/Terminal instructions
+# Step 3: Open the command prompt by pressing Shift+f10 or Shift+fn+f10
+# Step 4: Click the terminal, enter the following command "OOBE\BYPASSNRO" the device will restart
+# Note: If connected to a network, in cmd prompt, use the command "ipconfig /release" to disconnect or "release" all network connections 
+
+Finalization/Getting to Desktop
+# Step 5: Follow through, to network selection screen and choose "I dont have internet" (Option only available once ip released)
+# Note: See link for reference image : ""
+# Step 6: Follow through with account setup instructions (or skip). Desktop will load up shortly after
