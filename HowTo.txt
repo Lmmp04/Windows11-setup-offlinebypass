@@ -1,0 +1,6 @@
+This tutorial was created in July 2024, by Leo Platti
+This may be applicable in the scenario one does not have internet access or want to sign in via microsoft on a windows computer. It is also useful for commercial purposes when dealing with the initial setup of purchased computers
+
+1. Firstly you'll want to start fresh by powering off the computer. Upon turning the power back on you should be greeted by windows and asked to select your corresponding country or region. Do so then click yes.
+2. You'll be asked to choose your preferred Keyboard layout. Do so then click yes.
+3. 
